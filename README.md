@@ -8,7 +8,7 @@
 <body>
 
 <h1>This in Tony</h1>
-<p> Trial </p>.</p>
+<p> Trial </p>
 
 </body>
 </html>
