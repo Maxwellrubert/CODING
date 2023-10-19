@@ -1,0 +1,10 @@
+/* This is a CSS comment */
+h1 {
+    color: blue;       /* Text color is blue */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+p {
+    color: green;      /* Text color is green */
+    font-size: 18px;   /* Font size is 18 pixels */
+}
