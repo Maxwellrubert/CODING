@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>This is Maxwell Rubert</h1>
+<h1>This is Maxwell Rubt</h1>
 <p>I'm from Kanyakumari, I am glad to learn front end development rn!</p>
 <b>Maxwell Rbert</b>
 
