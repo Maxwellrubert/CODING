@@ -9,7 +9,7 @@
 
 <h1>This is Maxwell Rubert</h1>
 <p>I'm from Kanyakumari, I am glad to learn front end development rn!</p>
-<b>Maxwell Ruber</b>
+<b>Maxwell Rube</b>
 
 </body>
 </html>
