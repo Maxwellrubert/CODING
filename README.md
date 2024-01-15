@@ -8,7 +8,7 @@
 <body>
 
 <h1>This is Maxwellrubert</h1>
-<p>I'm from Kanyakumari, I am glad to learn front end development rn!</p>
+<marquee>I'm from Kanyakumari, I am glad to learn front end development rn!</marquee>
 <b>Maxwell Rubert</b>
 
 </body>
