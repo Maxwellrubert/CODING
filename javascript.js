@@ -1,5 +1,5 @@
 // Prompt the user for their name
-var userName = prompt("What's your name?");
+var userName = prompt("What  is your name?");
 
 // Check if the user entered a name
 if (userName) {
